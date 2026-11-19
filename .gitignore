@@ -1,0 +1,18 @@
+# Deployment material is distributed separately
+.env
+.env.*
+secrets/
+certs/
+backups/
+archive-local/
+*.key
+*.pem
+*.p12
+*.pfx
+*.zip
+*.tar
+*.tar.gz
+compose.yaml
+compose.yml
+docker-compose*.yml
+Dockerfile
